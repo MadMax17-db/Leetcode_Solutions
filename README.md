@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -73,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

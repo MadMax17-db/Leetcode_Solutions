@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

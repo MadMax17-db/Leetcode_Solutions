@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Trie
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Stack
 |  |
 | ------- |

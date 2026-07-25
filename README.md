@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |

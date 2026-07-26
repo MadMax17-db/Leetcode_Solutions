@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |

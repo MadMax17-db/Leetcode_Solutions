@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search
 |  |

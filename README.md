@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [1927-sum-game](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1140-stone-game-ii) |

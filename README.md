@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search Tree
 |  |
 | ------- |

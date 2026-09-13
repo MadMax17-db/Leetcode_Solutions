@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |

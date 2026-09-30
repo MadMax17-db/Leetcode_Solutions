@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

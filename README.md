@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |

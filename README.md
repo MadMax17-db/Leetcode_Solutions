@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MadMax17-db/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
